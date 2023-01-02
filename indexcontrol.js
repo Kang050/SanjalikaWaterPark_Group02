@@ -148,5 +148,11 @@ var app = angular.module("myApp", ["ngRoute"]);
                 controller:"myCtrl"
             }) ;
     });
+    app.controller('myCtrl',function($scope,$http)
+    {
+
+        
+    });
+
 
 
