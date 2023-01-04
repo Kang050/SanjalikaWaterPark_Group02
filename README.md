@@ -33,7 +33,7 @@ Documentations : https://github.com/Kang050/SanjalikaWaterPark_Group02/tree/main
 
 =======================================
 
-Published website : https://kang050.github.io/SanjalikaWaterPark_Group02/
+Published website : https://kang050.github.io/SanjalikaWaterPark_Group02/Source%20Code/
 
 =======================================
 
